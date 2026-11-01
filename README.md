@@ -4,7 +4,7 @@
 
 Teams build a route from their first adopter to a repeatable way of reaching the next market, pitch it to another team playing a buyer, adapt to a random curveball, and leave with a slide-ready summary for their pitch deck.
 
-Built for JOUR 3385 (Media Innovation & Entrepreneurship) at Cal Poly San Luis Obispo.
+Built for JOUR 3385 (Media Innovation & Entrepreneurship) at Cal Poly San Luis Obispo. Live site: https://jourinnovation.github.io/go-to-market/ 
 
 ---
 
